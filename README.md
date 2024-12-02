@@ -1,16 +1,11 @@
 ## Hi👋, I'm Andrei
 
-<!--
-**andreibalintescu/AndreiBalintescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## About Me
 - 🌱 I’m currently learning CS - in german at Babes-Bolyai University
 - 👯 I’m looking to collaborate on all sorts of projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: andreibalintescu123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Location: Cluj,Cluj-Napoca,Romania
+
+## Contact Information
+
+- 📧 Email: andreibalintescu123@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/andrei-b%C4%83lintescu-01b903271/
